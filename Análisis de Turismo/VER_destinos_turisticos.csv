@@ -1,0 +1,21 @@
+nombre,pais,tipo,destino_id,costo_promedio_usd,popularidad
+Playa del Carmen,México,Playa,1,405.81,3
+Machu Picchu,Perú,Cultural,2,953.18,2
+Torres del Paine,Chile,Montaña,3,745.39,4
+Cataratas del Iguazú,Argentina,Selva,4,618.73,4
+Cartagena de Indias,Colombia,Ciudad,5,198.22,3
+Isla de Pascua,Chile,Cultural,6,198.19,4
+San Andrés,Colombia,Playa,7,105.18,4
+Amazonas,Brasil,Selva,8,872.87,1
+Buenos Aires,Argentina,Ciudad,9,621.06,3
+Río de Janeiro,Brasil,Playa,10,722.67,5
+Granada,España,Cultural,11,69.56,3
+Santorini,Grecia,Playa,12,971.41,5
+París,Francia,Ciudad,13,840.82,1
+Tokio,Japón,Ciudad,14,251.72,2
+Nueva York,EE.UU.,Ciudad,15,222.73,4
+Roma,Italia,Cultural,16,224.23,1
+Kioto,Japón,Cultural,17,339.03,4
+Sydney,Australia,Ciudad,18,548.52,2
+Berlín,Alemania,Ciudad,19,460.35,2
+Capadocia,Turquía,Aventura,20,326.67,1
